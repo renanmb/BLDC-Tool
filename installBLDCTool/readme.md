@@ -1,11 +1,11 @@
 # installBLDCTool
 
 source: 
+<ul>
+<li>https://www.jetsonhacks.com/2018/02/13/racecar-j-programming-the-electronic-speed-controller/</li>
 
-https://www.jetsonhacks.com/2018/02/13/racecar-j-programming-the-electronic-speed-controller/
-
-https://github.com/RacecarJ/installBLDCTool
-
+<li>https://github.com/RacecarJ/installBLDCTool</li>
+</ul>
 
 The BLDC-Tool is used to flash firmware and configuration files to a hardware compatible Vedder Electronic Speed Controller (VESC). The VESC is an open source Brushless DC Motor Controller (BLDC). See:
 
